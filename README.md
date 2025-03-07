@@ -1,4 +1,4 @@
-# Transforming-Health-care-Data
+### Transforming Healthcare Data
 This project explores Medicare hospital spending patterns across the United States using Tableau. The dataset includes hospital names, claim types, average spending per episode at hospital, state, and national levels, and percentage allocations.
 
 ### Key Features

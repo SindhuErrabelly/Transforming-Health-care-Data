@@ -1,7 +1,7 @@
 # Transforming-Health-care-Data
 This project explores Medicare hospital spending patterns across the United States using Tableau. The dataset includes hospital names, claim types, average spending per episode at hospital, state, and national levels, and percentage allocations.
 
-##Key Features
+### Key Features
 Geospatial Analysis: Interactive maps showcasing period-wise spending across states.
 Claim Type Insights: Packed bubble charts and bar graphs highlighting spending by claim type.
 Hospital Clusters & Outliers: Identified high and low spending hospitals using clustering techniques and box plots.
